@@ -78,7 +78,7 @@ They can be found here: https://github.com/aimacode/aima-python
 You will find all files needed to execute the project in the above link.
 
 ## Author
-Vasilis Panagakis
+Vassilis Panagakis
 
 ## Date
 December 2019
